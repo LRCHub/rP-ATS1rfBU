@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ディア",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-17T02:54:00.894760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ディア・デ・ロス・ムエルトス",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/01_ディア・デ・ロス・ムエルトス_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホールド・オン・フォー・ディア・ラヴ",
+      "artist": "ブリジット・メンドラー",
+      "has_synced": false,
+      "path": "select/02_ホールド・オン・フォー・ディア・ラヴ_ブリジット・メンドラー.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ディア・ゴッド",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/03_ディア・ゴッド_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ディア ロンリーガール",
+      "artist": "加藤ミリヤ",
+      "has_synced": false,
+      "path": "select/04_ディア_ロンリーガール_加藤ミリヤ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "2 ディア ロンリーガール",
+      "artist": "加藤ミリヤ",
+      "has_synced": false,
+      "path": "select/05_2_ディア_ロンリーガール_加藤ミリヤ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ディア",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/06_ディア_Reol.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ディア",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/07_ディア_Giga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Promise (ディア Ver.)",
+      "artist": "結城アイラ",
+      "has_synced": true,
+      "path": "select/08_A_Promise_(ディア_Ver.)_結城アイラ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ディア",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/09_ディア_Reol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Giga - ディア(DEAR) ft.初音ミク",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/10_Giga_-_ディア(DEAR)_ft.初音ミク_Giga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ディア",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/11_ディア_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ディア・エムエーエムエー",
+      "artist": "YM",
+      "has_synced": false,
+      "path": "select/12_ディア・エムエーエムエー_YM.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ディア ロンリーガール - Dear Lonely Girl",
+      "artist": "Miliyah",
+      "has_synced": true,
+      "path": "select/13_ディア_ロンリーガール_-_Dear_Lonely_Girl_Miliyah.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reol - 'ディア / DEAR' Music Video",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/14_Reol_-_'ディア___DEAR'_Music_Video_Reol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Promise (ディア Ver.)",
+      "artist": "ディア (CV.上田麗奈)",
+      "has_synced": true,
+      "path": "select/15_A_Promise_(ディア_Ver.)_ディア_(CV.上田麗奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディア",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_ディア_Reol.txt"
+    }
+  ]
+}
